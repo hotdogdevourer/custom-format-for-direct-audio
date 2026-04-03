@@ -16,5 +16,7 @@ Example:
 
 Can be played (Aka converted to WAV) by `cfda play output.cfda`
 
+It also includes a Python version but the functionality is basically almost the same.
+
 # License
 MIT License, all rights reserved. More licensing information at the LICENSE file in the root directory.
