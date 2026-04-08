@@ -17,4 +17,4 @@ Example:
 Can be played (Aka converted to WAV) by `cfda play output.cfda`
 
 # License
-MIT License, all rights reserved. More licensing information at the LICENSE file in the root directory.
+MIT License. More licensing information at the LICENSE file in the root directory.
